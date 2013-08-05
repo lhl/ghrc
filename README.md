@@ -1,10 +1,9 @@
-The Open Source Report Card
+GitHub Report Card
 ===========================
 
-This is my submission to the
-[GitHub data challenge](https://github.com/blog/1450-the-github-data-challenge-ii).
-Take a look at the [live demo](http://osrc.dfm.io) for a description of the project
-and a view of what the results look like.
+Forked from the [Open Source Report Card](http://osrc.dfm.io/) to create a version
+that generates a summary/stats that includes private repos/org data.
+
 
 Running the analysis yourself
 -----------------------------
